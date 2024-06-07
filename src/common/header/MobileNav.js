@@ -1,13 +1,12 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 import { FaAngleDown } from "react-icons/fa";
 
-
-const Nav = () => {
-    return (
-      <nav className='mainmenu-nav'>
-        <ul className='mainmenu'>
-          {/* <li className="menu-item-has-children">
+const MobileNav = () => {
+  return (
+    <nav className='mainmenu-nav'>
+      <ul className='mainmenu'>
+        {/* <li className="menu-item-has-children">
                     <Link to="#">Digital Agency <FaAngleDown /> </Link>
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/digital-agency"}>Digital Agency</Link></li>
@@ -18,90 +17,87 @@ const Nav = () => {
                         <li><a href="https://new.axilthemes.com/demo/react/abstrak-rtl/">RTL Demo</a></li>
                     </ul>
                 </li> */}
-          <li className='menu-item-has-children'>
-            <Link to='/service-two'>
-              Services <FaAngleDown />
-            </Link>
-            <ul className='axil-submenu'>
-              {/* <li><Link to={process.env.PUBLIC_URL + "/service-one"}>Design</Link></li>
+        <li className='menu-item-has-children'>
+          <Link to='#'>
+            Services <FaAngleDown />
+          </Link>
+          <ul className='axil-submenu'>
+            {/* <li><Link to={process.env.PUBLIC_URL + "/service-one"}>Design</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/service-two"}>Service Two</Link></li> */}
-              <li>
-                <Link to={process.env.PUBLIC_URL + "/service-details/design"}>
-                  Design
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={
-                    process.env.PUBLIC_URL +
-                    "/service-details/website-development"
-                  }
-                >
-                  Web Development
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={
-                    process.env.PUBLIC_URL + "/service-details/app-development"
-                  }
-                >
-                  App Development
-                </Link>
-              </li>
-              <li>
-                <Link to={process.env.PUBLIC_URL + "/service-details/seo"}>
-                  SEO
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={process.env.PUBLIC_URL + "/service-details/video-editing"}
-                >
-                  Video Editing
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={process.env.PUBLIC_URL + "/service-details/logo-branding"}
-                >
-                  Branding
-                </Link>
-              </li>
-              <li>
-                <Link to={process.env.PUBLIC_URL + "/service-details/smm"}>
-                  Social Media Manage
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={
-                    process.env.PUBLIC_URL +
-                    "/service-details/advertising-strategy"
-                  }
-                >
-                  Ads Management
-                </Link>
-              </li>
-              <li>
-                <Link
-                  to={
-                    process.env.PUBLIC_URL +
-                    "/service-details/content-management"
-                  }
-                >
-                  Content Management
-                </Link>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <Link to={process.env.PUBLIC_URL + "/portfolio"}>Portfolio</Link>
-          </li>
-          <li>
-            <Link to={process.env.PUBLIC_URL + "/about-us"}>About</Link>
-          </li>
-{/*
+            <li>
+              <Link to={process.env.PUBLIC_URL + "/service-details/design"}>
+                Design
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={
+                  process.env.PUBLIC_URL +
+                  "/service-details/website-development"
+                }
+              >
+                Web Development
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={process.env.PUBLIC_URL + "/service-details/app-development"}
+              >
+                App Development
+              </Link>
+            </li>
+            <li>
+              <Link to={process.env.PUBLIC_URL + "/service-details/seo"}>
+                SEO
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={process.env.PUBLIC_URL + "/service-details/video-editing"}
+              >
+                Video Editing
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={process.env.PUBLIC_URL + "/service-details/logo-branding"}
+              >
+                Branding
+              </Link>
+            </li>
+            <li>
+              <Link to={process.env.PUBLIC_URL + "/service-details/smm"}>
+                Social Media Manage
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={
+                  process.env.PUBLIC_URL +
+                  "/service-details/advertising-strategy"
+                }
+              >
+                Ads Management
+              </Link>
+            </li>
+            <li>
+              <Link
+                to={
+                  process.env.PUBLIC_URL + "/service-details/content-management"
+                }
+              >
+                Content Management
+              </Link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <Link to={process.env.PUBLIC_URL + "/portfolio"}>Portfolio</Link>
+        </li>
+        <li>
+          <Link to={process.env.PUBLIC_URL + "/about-us"}>About</Link>
+        </li>
+        {/*
           <li className="menu-item-has-children">
                     <Link to="#">Portfolio <FaAngleDown /></Link>
                     <ul className="axil-submenu">
@@ -113,7 +109,7 @@ const Nav = () => {
                         <li><Link to={process.env.PUBLIC_URL + "/project-details/plan-management"}>Portfolio Details</Link></li>
                     </ul>
                 </li> */}
-          {/* <li className='menu-item-has-children'>
+        {/* <li className='menu-item-has-children'>
             <Link to='#'>
               Pages <FaAngleDown />
             </Link>
@@ -175,9 +171,7 @@ const Nav = () => {
             </ul>
           </li> */}
 
-
-
-          {/* <li className='menu-item-has-children'>
+        {/* <li className='menu-item-has-children'>
             <Link to='#'>
               Blog <FaAngleDown />
             </Link>
@@ -202,14 +196,14 @@ const Nav = () => {
               </li>
               {/* <li><Link to={process.env.PUBLIC_URL + "#"}>Audio Post</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "#"}>Quote Post</Link></li> */}
-            {/* </ul> */}
-          {/* </li> */} 
-          <li>
-            <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
-          </li>
-        </ul>
-      </nav>
-    );
-}
+        {/* </ul> */}
+        {/* </li> */}
+        <li>
+          <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
+        </li>
+      </ul>
+    </nav>
+  );
+};
 
-export default Nav;
+export default MobileNav;
