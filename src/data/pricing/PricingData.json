@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Development",
+    "subtitle": "Minimum charges for web & app development",
+    "yprice": "$200.00",
+    "yduration": "/project",
+    "mprice": "$19.99",
+    "mduration": "/monthly",
+    "facility": [
+      "Custom Design",
+      "Static Website",
+      " Responsive Design",
+      "30 Days Support",
+      "3 Revisions"
+    ]
+  },
+  {
+    "title": "Designing",
+    "subtitle": "Minimum charges for Branding & Video Editing",
+    "yprice": "$100.00",
+    "yduration": "/project",
+    "mprice": "$29.99",
+    "mduration": "/monthly",
+    "facility": [
+      "Brand Design",
+      "3 Revisions",
+      "No Watermark",
+      "Custom Animations",
+      "Custom Transitions"
+    ]
+  },
+  {
+    "title": "SMM & Ads",
+    "subtitle": "Minimum charges for SMM & Ads management",
+    "yprice": "$200.00",
+    "yduration": "/monthly",
+    "mprice": "$59.99",
+    "mduration": "/monthly",
+    "facility": [
+      "Insta & FB profile management",
+      "Google ads management",
+      "Youtube ads management",
+      "15 posts on Insta & Fb",
+      "10 reels"
+    ]
+  }
+]

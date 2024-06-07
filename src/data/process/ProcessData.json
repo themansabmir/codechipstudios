@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/others/process-1.png",
+    "subtitle": "Step One",
+    "title": " Initial Consultation and Requirements Gathering",
+    "paragraph": " The first step involves meeting with the client to understand their needs and objectives. This includes discussing project goals, timelines, budget, and any specific requirements. This information is crucial for tailoring the project plan to meet client expectations effectively."
+  },
+  {
+    "id": 2,
+    "thumb": "/images/others/process-2.png",
+    "subtitle": "Step Two",
+    "title": "Project Proposal and Agreement",
+    "paragraph": "Based on the initial consultation, a detailed project proposal is created. This proposal outlines the scope of work, deliverables, timelines, and costs. Once the client reviews and approves the proposal, a formal agreement or contract is signed to officially kick off the project."
+  },
+  {
+    "id": 3,
+    "thumb": "/images/others/process-3.png",
+    "subtitle": "Step Three",
+    "title": "Team Assembly and Planning",
+    "paragraph": " After the agreement is in place, the appropriate team members are assigned to the project. This includes identifying key roles such as project managers, developers, designers, and other specialists. A detailed project plan is developed, including milestones, deadlines, and resource allocation."
+  },
+  {
+    "id": 4,
+    "thumb": "/images/others/process-4.png",
+    "subtitle": "Step four",
+    "title": "Kickoff Meeting and Project Initiation",
+    "paragraph": "The final step involves holding a kickoff meeting with all stakeholders to ensure everyone is aligned and understands their roles and responsibilities. The project plan is reviewed, and any final adjustments are made. This meeting sets the stage for the project execution phase, marking the official start of the project work."
+  }
+]

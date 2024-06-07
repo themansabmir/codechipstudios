@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/team/team-1.png",
+    "title": "Mansab Mir",
+    "designation": "CEO <br>Lead Engineer",
+    "description": "As the CEO and Lead Engineer, I'm on a mission to revolutionize the way we interact with technology. With a wealth of experience and a passion for innovation, I lead our team towards new horizons, pushing the boundaries of what's possible. From conceptualization to execution, I ensure that every project we undertake is not just successful but groundbreaking. My commitment to excellence drives me to constantly seek out new solutions and approaches, shaping the future of our industry.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 2,
+    "thumb": "/images/team/team-2.png",
+    "title": "Zainab",
+    "designation": "Senior <br> Sales Executive ",
+    "description": "In my role as a Senior Sales Executive, I thrive on the dynamic nature of the sales landscape. With years of experience under my belt, I've honed my skills in building lasting relationships and driving revenue growth. From prospecting to closing, I approach each interaction with a blend of strategic insight and genuine passion. My goal is not just to meet targets but to exceed them, leveraging my expertise to craft tailored solutions that meet the unique needs of our clients. Through dedication, perseverance, and a relentless pursuit of excellence, I'm committed to driving our sales team towards unparalleled success.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 3,
+    "thumb": "/images/team/team-3.png",
+    "title": "Jaelyn",
+    "designation": "Senior <br> Graphic Designer",
+    "description": "As a Senior Graphic Designer, I'm driven by my passion for visual storytelling and creative expression. With a keen eye for detail and a deep understanding of design principles, I bring ideas to life in ways that captivate and inspire. From concept to execution, I pour my heart and soul into every project, pushing the boundaries of what's possible to deliver designs that not only meet but exceed expectations. Whether it's a logo, branding collateral, or a full-scale marketing campaign, I approach each challenge with creativity, innovation, and a commitment to excellence.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 4,
+    "thumb": "/images/team/team-4.png",
+    "title": "Ubaid Shafi",
+    "designation": "Senior <br> Operation Lead",
+    "description": "As the Senior Operation Lead, I'm the backbone of our organization, ensuring that everything runs smoothly and efficiently. With a meticulous attention to detail and a knack for problem-solving, I optimize processes and streamline workflows to maximize productivity and minimize waste. From project management to resource allocation, I take a hands-on approach to every aspect of operations, leading by example and inspiring my team to excel. My goal is simple: to create an environment where everyone can thrive, and where our collective efforts propel us towards our shared goals.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 5,
+    "thumb": "/images/team/team-5.png",
+    "title": "Abdullah",
+    "designation": "Social Media <br> Manager",
+    "description": "In my role as a Social Media Manager, I'm on a mission to make meaningful connections and foster engaged communities. With a deep understanding of social media dynamics and a flair for storytelling, I craft compelling narratives that resonate with our audience and drive meaningful engagement. From content creation to community management, I approach each platform with a strategic mindset, leveraging data and insights to optimize our presence and maximize our impact. My goal is not just to build a following, but to build a community—a community that's passionate, engaged, and invested in our brand.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 6,
+    "thumb": "/images/team/team-6.png",
+    "title": "Kate Murphy",
+    "designation": "Content Writer <br> Producer",
+    "description": "As a Content Writer and Producer, I have the privilege of bringing stories to life in ways that captivate and inspire. With a passion for storytelling and a knack for creativity, I craft narratives that resonate with audiences and drive meaningful connections. From blog posts to videos, I approach each project with a blend of artistry and strategy, weaving together words and visuals to create content that's not just entertaining but impactful. Whether it's educating, entertaining, or inspiring, my goal is simple: to create content that leaves a lasting impression and drives action.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 7,
+    "thumb": "/images/team/team-7.png",
+    "title": "Jane Cooper",
+    "designation": "Video Editor",
+    "description": "In my role as a Video Editor, I'm driven by my passion for storytelling and my love of the craft. With an eye for detail and a flair for creativity, I transform raw footage into polished, professional videos that captivate and inspire. From cutting-edge commercials to heartfelt documentaries, I approach each project with a blend of technical expertise and artistic vision, shaping narratives that resonate with audiences and drive meaningful connections. Whether it's through music, pacing, or visual effects, I strive to create videos that not only look great but feel great, leaving a lasting impression on everyone who watches.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  },
+  {
+    "id": 8,
+    "thumb": "/images/team/team-8.png",
+    "title": "Zayn",
+    "designation": "Senior <br> Software Engineer",
+    "description": "As a Senior Software Engineer, I'm on a mission to build the future—one line of code at a time. With a deep understanding of programming languages and a passion for innovation, I architect elegant, efficient solutions that push the boundaries of what's possible. From backend systems to user interfaces, I approach each project with a blend of technical expertise and creative problem-solving, leveraging the latest technologies and best practices to deliver software that's not just functional but exceptional. Whether it's optimizing performance, enhancing security, or improving scalability, my goal is simple: to create software that's as reliable as it is revolutionary.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "pinterst": "https://www.pinterest.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "instagram": "https://www.instagram.com/",
+      "vimeo": "https://vimeo.com/",
+      "dribble": "https://dribbble.com/",
+      "behance": "https://www.behance.net/"
+    }
+  }
+]
