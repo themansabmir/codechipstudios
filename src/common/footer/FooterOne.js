@@ -117,9 +117,9 @@ const FooterOne = ({ parentClass }) => {
                           </li>
                         ))}
                         <li>
-                          <Link
-                            to={process.env.PUBLIC_URL + `/service-two`}
-                          >All Services</Link>
+                          <Link to={process.env.PUBLIC_URL + `/service-two`}>
+                            All Services
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -187,7 +187,7 @@ const FooterOne = ({ parentClass }) => {
               <div className='footer-copyright'>
                 <span className='copyright-text'>
                   © {new Date().getFullYear()}. All rights reserved by{" "}
-                  <a href='https://axilthemes.com/'>CODECHIP</a>.
+                  <Link to={process.env.PUBLIC_URL + "/"}>CODECHIP</Link>
                 </span>
               </div>
             </div>

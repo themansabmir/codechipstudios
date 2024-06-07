@@ -38,7 +38,7 @@ const AllData = ProjectData;
 
 const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
   const [getAllItems] = useState(AllData);
-  const [visiableProject] = useState(itemShow ? itemShow : 6);
+  const [visiableProject] = useState(itemShow ? itemShow : AllData.length);
   const [activeFilter, setActiveFilter] = useState("");
   const [visibleItems, setVisibleItems] = useState([]);
 

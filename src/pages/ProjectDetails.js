@@ -28,7 +28,7 @@ const ProjectDetails = () => {
 
   return (
     <>
-      <SEO title={'Project Details'} />
+      <SEO title={"Project Details"} />
       <ColorSwitcher />
       <main className='main-wrapper'>
         <HeaderOne />
@@ -52,13 +52,13 @@ const ProjectDetails = () => {
                 {detailsProject.body.map((para, index) => (
                   <p key={index} dangerouslySetInnerHTML={{ __html: para }}></p>
                 ))}
-                <Link
-                  to={detailsProject.projectLink}
+                <a
+                  href={detailsProject.projectLink}
                   target='_blank'
                   className='axil-btn btn-fill-primary'
                 >
-                  Live Link
-                </Link>
+                  View Project
+                </a>
               </div>
               <div className='col-lg-6 offset-xl-1'>
                 <div className='why-choose-us'>
@@ -67,22 +67,23 @@ const ProjectDetails = () => {
                     <p>{detailsProject.deliveryDescription}</p>
                   </div>
                   <Accordion defaultActiveKey='1'>
-                    {detailsProject.deliveryAccordion &&  detailsProject.deliveryAccordion.map(
-                      (accordionItem, index) => {
-                        const { accordionHeader, accordionDescription } =
-                          accordionItem;
-                        return (
-                          <Accordion.Item eventKey={`${index + 1}`}>
-                            <Accordion.Header>
-                              {icons[index]} {accordionHeader}
-                            </Accordion.Header>
-                            <Accordion.Body>
-                              {accordionDescription}
-                            </Accordion.Body>
-                          </Accordion.Item>
-                        );
-                      }
-                    )}
+                    {detailsProject.deliveryAccordion &&
+                      detailsProject.deliveryAccordion.map(
+                        (accordionItem, index) => {
+                          const { accordionHeader, accordionDescription } =
+                            accordionItem;
+                          return (
+                            <Accordion.Item eventKey={`${index + 1}`}>
+                              <Accordion.Header>
+                                {icons[index]} {accordionHeader}
+                              </Accordion.Header>
+                              <Accordion.Body>
+                                {accordionDescription}
+                              </Accordion.Body>
+                            </Accordion.Item>
+                          );
+                        }
+                      )}
                   </Accordion>
 
                   {/* <Accordion defaultActiveKey='1'>

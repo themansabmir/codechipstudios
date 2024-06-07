@@ -1,52 +1,136 @@
-import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SEO from '../common/SEO';
-
+import React from "react";
+import FooterOne from "../common/footer/FooterOne";
+import HeaderOne from "../common/header/HeaderOne";
+import CtaLayoutOne from "../component/cta/CtaLayoutOne";
+import BreadCrumbOne from "../elements/breadcrumb/BreadCrumbOne";
+import ColorSwitcher from "../elements/switcher/ColorSwitcher";
+import SEO from "../common/SEO";
 
 const TermsOfUse = () => {
+  return (
+    <>
+      <SEO title='Terms Of Use' />
+      <ColorSwitcher />
+      <main className='main-wrapper'>
+        <HeaderOne />
+        <BreadCrumbOne title='Terms Of Use' page='Terms Of Use' />
+        <div className='section-padding privacy-policy-area'>
+          <div className='container'>
+            <div className='row justify-content-center'>
+              <div className='col-lg-10'>
+                <div className='terms-of-use-content'>
+                  <div className='section-title'>
+                    <h5 className='title'>Terms of Use</h5>
+                  </div>
+                  <p>
+                    These Terms of Use were last updated on September 10th,
+                    2021.
+                  </p>
 
-    return (
-        <>
-            <SEO title="Terms Of Use" />
-            <ColorSwitcher />
-            <main className="main-wrapper">
-                <HeaderOne />
-                <BreadCrumbOne 
-                title="Terms Of Use"
-                page="Terms Of Use"
-                />
-                <div className="section-padding privacy-policy-area">
-                    <div className="container">
-                        <div className="row justify-content-center">
-                            <div className="col-lg-10">
-                                <div className="privacy-policy-content">
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Sed nec ex vitae justo molestie maximus. Sed ut neque sit amet libero rhoncus tempor. Fusce tempor quam libero, varius congue magna tempus vitae. Donec a justo nec elit sagittis sagittis eu a ante. Vivamus rutrum elit odio. Donec gravida id ligula ut faucibus. Aenean convallis ligula orci, ut congue nunc sodales ut. In ultrices elit malesuada velit ornare, eget dictum velit hendrerit. Praesent bibendum blandit lectus, eu congue neque mollis in. Pellentesque metus diam, hendrerit in purus fringilla, accumsan bibendum sapien. Nunc non facilisis sem.
-                                </p>
-                                <h4>About Abstrak</h4>
-                                <p>In dapibus, nibh sit amet pulvinar convallis, massa nunc tincidunt nunc, a pretium risus nulla ut dui. Ut ut condimentum tellus, dapibus volutpat est. Integer ullamcorper iaculis blandit. Pellentesque id tempus urna. Quisque luctus cursus imperdiet. <a href="mailto:example@abstrak.com">example@abstrak.com</a> </p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
-                                <h4>Mirum est notare quam</h4>
-                                <p>Littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  <h4>Introduction</h4>
+                  <p>
+                    Welcome to Codechip! By accessing or using our website, you
+                    agree to comply with and be bound by these Terms of Use.
+                    Please read them carefully.
+                  </p>
+                  <h4>Use of the Site</h4>
+                  <p>
+                    You agree to use the site only for lawful purposes and in a
+                    way that does not infringe the rights of, restrict, or
+                    inhibit anyone else's use and enjoyment of the site.
+                    Prohibited behavior includes harassing or causing distress
+                    or inconvenience to any other user, transmitting obscene or
+                    offensive content, or disrupting the normal flow of dialogue
+                    within our site.
+                  </p>
+                  <h4>Intellectual Property</h4>
+                  <p>
+                    All content included on this site, such as text, graphics,
+                    logos, images, and software, is the property of Codechip or
+                    its content suppliers and is protected by international
+                    copyright laws. Unauthorized use or reproduction of this
+                    content is prohibited.
+                  </p>
+                  <h4>Account Registration</h4>
+                  <p>
+                    To access certain features of the site, you may be required
+                    to register an account. You agree to provide accurate,
+                    current, and complete information during the registration
+                    process and to update such information to keep it accurate,
+                    current, and complete. You are responsible for safeguarding
+                    your password and for all activities that occur under your
+                    account.
+                  </p>
+                  <h4>User Conduct</h4>
+                  <p>
+                    You agree not to use the site to upload, post, email,
+                    transmit, or otherwise make available any content that is
+                    unlawful, harmful, threatening, abusive, harassing,
+                    defamatory, vulgar, obscene, invasive of another's privacy,
+                    hateful, or racially, ethnically, or otherwise
+                    objectionable.
+                  </p>
+                  <h4>Termination</h4>
+                  <p>
+                    We reserve the right to terminate or suspend your access to
+                    our site immediately, without prior notice or liability, for
+                    any reason, including, without limitation, if you breach the
+                    Terms of Use.
+                  </p>
+                  <h4>Limitation of Liability</h4>
+                  <p>
+                    In no event shall Codechip, nor its directors, employees,
+                    partners, agents, suppliers, or affiliates, be liable for
+                    any indirect, incidental, special, consequential, or
+                    punitive damages, including without limitation, loss of
+                    profits, data, use, goodwill, or other intangible losses,
+                    resulting from (i) your use or inability to use the site;
+                    (ii) any unauthorized access to or use of our servers and/or
+                    any personal information stored therein; (iii) any
+                    interruption or cessation of transmission to or from our
+                    site; (iv) any bugs, viruses, trojan horses, or the like
+                    that may be transmitted to or through our site by any third
+                    party; (v) any errors or omissions in any content or for any
+                    loss or damage incurred as a result of your use of any
+                    content posted, emailed, transmitted, or otherwise made
+                    available through the site; and/or (vi) the defamatory,
+                    offensive, or illegal conduct of any third party.
+                  </p>
+                  <h4>Governing Law</h4>
+                  <p>
+                    These Terms of Use shall be governed and construed in
+                    accordance with the laws of the jurisdiction in which
+                    Codechip operates, without regard to its conflict of law
+                    provisions.
+                  </p>
+                  <h4>Changes to the Terms of Use</h4>
+                  <p>
+                    We reserve the right, at our sole discretion, to modify or
+                    replace these Terms of Use at any time. If a revision is
+                    material, we will try to provide at least 30 days' notice
+                    prior to any new terms taking effect. What constitutes a
+                    material change will be determined at our sole discretion.
+                  </p>
+                  <h4>Contact Us</h4>
+                  <p>
+                    If you have any questions about these Terms of Use, please
+                    contact us at{" "}
+                    <a href='mailto:mansabmir@codechip.in'>
+                      Mansabmir@Codechip.in
+                    </a>
+                    .
+                  </p>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
-                <CtaLayoutOne />
-            <FooterOne parentClass="" />
-            </main>
-        </>
-    )
-}
+        <CtaLayoutOne />
+        <FooterOne parentClass='' />
+      </main>
+    </>
+  );
+};
 
 export default TermsOfUse;

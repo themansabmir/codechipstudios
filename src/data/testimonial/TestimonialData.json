@@ -1,76 +1,74 @@
 [
-
-    {
-        "fromtext": "Yelp",
-        "from": "/images/icon/yelp-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-1.png",
-        "authorname": "Darrell Steward",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Google",
-        "from": "/images/icon/google-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-2.png",
-        "authorname": "Savannah Nguyen",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Facebook",
-        "from": "/images/icon/fb-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-3.png",
-        "authorname": "Floyd Miles",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Yelp",
-        "from": "/images/icon/yelp-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-1.png",
-        "authorname": "Darrell Steward",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Google",
-        "from": "/images/icon/google-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-2.png",
-        "authorname": "Savannah Nguyen",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Facebook",
-        "from": "/images/icon/fb-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-3.png",
-        "authorname": "Floyd Miles",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Yelp",
-        "from": "/images/icon/yelp-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-1.png",
-        "authorname": "Darrell Steward",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Google",
-        "from": "/images/icon/google-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-2.png",
-        "authorname": "Savannah Nguyen",
-        "authordesig": "Executive Chairman"
-    },
-    {
-        "fromtext": "Facebook",
-        "from": "/images/icon/fb-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
-        "authorimg": "/images/testimonial/testimonial-3.png",
-        "authorname": "Floyd Miles",
-        "authordesig": "Executive Chairman"
-    }
-
+  {
+    "fromtext": "Yelp",
+    "from": "/images/icon/profile1.webp",
+    "description": "“The web development team at this agency transformed our website into a modern, user-friendly platform. Their attention to detail and creativity is unmatched. Highly recommend!”",
+    "authorimg": "/images/testimonial/testimonial-1.png",
+    "authorname": "Arjun Sharma",
+    "authordesig": "Managing Director"
+  },
+  {
+    "fromtext": "Google",
+    "from": "/images/icon/google-2.png",
+    "description": "“Fantastic digital marketing services! They helped us boost our online presence and reach a wider audience. The results were beyond our expectations.”",
+    "authorimg": "/images/testimonial/testimonial-2.png",
+    "authorname": "Meera Singh",
+    "authordesig": "Project Manager"
+  },
+  {
+    "fromtext": "Facebook",
+    "from": "/images/icon/fb-2.png",
+    "description": "“The team's expertise in SEO and content marketing significantly improved our search engine rankings. We saw a noticeable increase in traffic and engagement.”",
+    "authorimg": "/images/testimonial/testimonial-3.png",
+    "authorname": "Rahul Gupta",
+    "authordesig": "Software Engineer"
+  },
+  {
+    "fromtext": "Yelp",
+    "from": "/images/icon/yelp-2.png",
+    "description": "“Their social media management services are top-notch. Our brand's visibility on platforms like Instagram and Facebook has grown tremendously.”",
+    "authorimg": "/images/testimonial/testimonial-1.png",
+    "authorname": "Priya Patel",
+    "authordesig": "Chief Marketing Officer"
+  },
+  {
+    "fromtext": "Google",
+    "from": "/images/icon/google-2.png",
+    "description": "“The agency's UX/UI design team created an intuitive and attractive interface for our app. The user feedback has been overwhelmingly positive.”",
+    "authorimg": "/images/testimonial/testimonial-2.png",
+    "authorname": "Amit Rao",
+    "authordesig": "Business Analyst"
+  },
+  {
+    "fromtext": "Facebook",
+    "from": "/images/icon/fb-2.png",
+    "description": "“Our e-commerce sales have soared since they revamped our website. The new design is not only visually appealing but also highly functional and user-friendly.”",
+    "authorimg": "/images/testimonial/testimonial-3.png",
+    "authorname": "Sneha Desai",
+    "authordesig": "Data Scientist"
+  },
+  {
+    "fromtext": "Yelp",
+    "from": "/images/icon/yelp-2.png",
+    "description": "“Professional and reliable. They delivered our project on time and exceeded our expectations with their innovative solutions.”",
+    "authorimg": "/images/testimonial/testimonial-1.png",
+    "authorname": "Rohan Verma",
+    "authordesig": "Chief Financial Officer"
+  },
+  {
+    "fromtext": "Google",
+    "from": "/images/icon/google-2.png",
+    "description": "“Their content creation and management services have been a game changer for our business. Engaging and high-quality content that resonates with our audience.”",
+    "authorimg": "/images/testimonial/testimonial-2.png",
+    "authorname": "Lakshmi Iyer",
+    "authordesig": "Human Resources Manager"
+  },
+  {
+    "fromtext": "Facebook",
+    "from": "/images/icon/fb-2.png",
+    "description": "“Impressed with their PPC campaign management. The targeted ads have brought in a significant return on investment. Truly experts in their field.”",
+    "authorimg": "/images/testimonial/testimonial-3.png",
+    "authorname": "Vikas Mehta",
+    "authordesig": "Operations Manager"
+  }
 ]

@@ -2,78 +2,141 @@
   {
     "id": 1,
     "image": "/images/project/project-1.png",
-    "title": "Azilure-Furniture E-commerce ",
+    "title": "Azilure-Furniture E-commerce",
     "category": ["Website", "SEO"],
-    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "excerpt": "Discover how we transformed the online furniture shopping experience with innovative design, robust development, and effective SEO strategies at Azilure.",
     "body": [
-      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+      "The Azilure project showcases our ability to blend form and function in an e-commerce platform. Our team created a seamless online shopping experience, focusing on both aesthetic appeal and usability. We tackled industry-specific challenges by incorporating intuitive navigation, high-quality product images, and detailed descriptions, ensuring customers can easily find and purchase the furniture they need.",
+      "In the rapidly evolving digital landscape, standing out is crucial. For Azilure, we employed cutting-edge development techniques to build a responsive and secure site that performs excellently across all devices. Additionally, our comprehensive SEO strategy boosted Azilure's online visibility, driving organic traffic and enhancing their market presence."
     ],
     "projectLink": "https://www.azilure.com",
-    "deliveryDescription": "some para",
+    "deliveryDescription": "The Azilure project involved the creation of a comprehensive e-commerce platform for furniture. Our team was responsible for the design, development, and SEO optimization of the website. The objective was to provide an intuitive shopping experience, enhance site visibility on search engines, and ensure seamless performance across devices.",
     "deliveryAccordion": [
       {
-        "accordionHeader": "",
-        "accordionDescription": ""
+        "accordionHeader": "Design",
+        "accordionDescription": "Our design team focused on creating a user-friendly and visually appealing interface. We implemented modern design principles to ensure the site was not only attractive but also easy to navigate. Key features included high-quality images, detailed product descriptions, and a clean layout that guides the user through the shopping process."
       },
       {
-        "accordionHeader": "",
-        "accordionDescription": ""
+        "accordionHeader": "Development",
+        "accordionDescription": "The development phase involved building a robust e-commerce platform that could handle high traffic and large inventories. We used the latest technologies to ensure the site was fast, responsive, and secure. Features included a dynamic product catalog, shopping cart functionality, user account management, and secure payment processing."
       },
       {
-        "accordionHeader": "",
-        "accordionDescription": ""
+        "accordionHeader": "SEO",
+        "accordionDescription": "Our SEO strategy aimed to increase organic traffic and improve search engine rankings. We conducted extensive keyword research, optimized on-page elements such as titles, meta descriptions, and alt tags, and created high-quality content that resonates with the target audience. Additionally, we built a network of backlinks to enhance domain authority and visibility."
       }
     ]
   },
-  {
-    "id": 2,
-    "image": "/images/project/project-2.png",
-    "title": "ETF JUNCTION-Trading",
-    "projectLink":"",
-    "category": ["Website", "Mobile", "SEO"],
-    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
-    "body": [
-      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-    ]
-  },
+ {
+   "id": 2,
+   "image": "/images/project/project-2.png",
+   "title": "ETF JUNCTION-Trading",
+   "projectLink": "https://www.etfjunction.com",
+   "category": ["Website", "Mobile", "SEO"],
+   "excerpt": "Explore how we revolutionized online trading and investing with our cutting-edge design, development, and SEO strategies at ETF JUNCTION.",
+   "body": [
+     "The ETF JUNCTION project highlights our expertise in creating sophisticated trading platforms. Our team developed a user-centric interface that simplifies the complexities of trading and investing in stocks. By incorporating real-time data, intuitive navigation, and robust security features, we provided users with a seamless and reliable trading experience.",
+     "In the highly competitive field of online trading, visibility and performance are crucial. For ETF JUNCTION, we employed advanced development techniques to build a responsive and secure platform that operates flawlessly on both web and mobile devices. Our strategic SEO efforts ensured the platform ranked highly on search engines, attracting and retaining a broad user base."
+   ],
+   "deliveryDescription": "The ETF JUNCTION project involved the comprehensive design, development, and SEO optimization of a trading platform for stocks and investments. Our objective was to create an intuitive, secure, and highly functional platform that caters to both novice and experienced traders, enhancing user engagement and driving organic traffic.",
+   "deliveryAccordion": [
+     {
+       "accordionHeader": "Design",
+       "accordionDescription": "Our design team crafted a user-friendly interface with a focus on clarity and ease of use. We implemented modern design elements that make navigating the platform straightforward, whether users are viewing real-time stock data, managing their portfolios, or executing trades. The design emphasizes both aesthetics and functionality to provide an optimal user experience."
+     },
+     {
+       "accordionHeader": "Development",
+       "accordionDescription": "The development phase focused on creating a robust and secure trading platform capable of handling high volumes of transactions. We utilized the latest technologies to ensure the platform is fast, responsive, and secure. Key features include real-time data updates, advanced charting tools, user account management, and secure transaction processing."
+     },
+     {
+       "accordionHeader": "SEO",
+       "accordionDescription": "Our SEO strategy for ETF JUNCTION was aimed at increasing organic traffic and improving search engine rankings. We performed thorough keyword research, optimized all on-page elements, and created high-quality content tailored to the needs of traders and investors. Additionally, we built a strong backlink profile to enhance the platform's domain authority and search visibility."
+     }
+   ]
+ }
+,
   {
     "id": 3,
     "image": "/images/project/project-3.png",
-    "projectLink": "",
+    "projectLink": "https://nefacabs.com/",
     "title": "Nefacabs",
     "category": ["Website", "Design", "App"],
-    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "excerpt": "Learn how we enhanced the cab booking experience through innovative development, rigorous testing, and thorough optimization for Nefacabs.",
     "body": [
-      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+      "The Nefacabs project exemplifies our commitment to developing intuitive and efficient cab booking solutions. Our team focused on creating a seamless user experience, ensuring that customers can easily book rides, track their cabs in real-time, and enjoy a smooth journey. We integrated user-friendly features and robust functionalities to enhance the overall booking process.",
+      "In the competitive ride-hailing industry, performance and reliability are key. For Nefacabs, we employed advanced development practices to build a responsive and secure platform. Our rigorous testing protocols ensured the app's reliability and user satisfaction. Additionally, we performed extensive optimization to guarantee fast load times and seamless operation across various devices."
+    ],
+    "deliveryDescription": "The Nefacabs project involved comprehensive development, thorough testing, and meticulous optimization of a cab booking platform. Our goal was to create an intuitive, reliable, and high-performing app that simplifies the ride-booking process and enhances user satisfaction.",
+    "deliveryAccordion": [
+      {
+        "accordionHeader": "Development",
+        "accordionDescription": "Our development team built a robust and scalable cab booking platform equipped with essential features such as real-time tracking, fare estimation, and secure payment processing. We utilized the latest technologies to ensure the app's performance and security, providing users with a reliable and efficient service."
+      },
+      {
+        "accordionHeader": "Testing",
+        "accordionDescription": "We conducted extensive testing to ensure the platform's reliability and user satisfaction. Our testing procedures included functional testing, performance testing, security testing, and user acceptance testing. This rigorous process helped us identify and resolve any issues, ensuring a smooth and bug-free user experience."
+      },
+      {
+        "accordionHeader": "Optimization",
+        "accordionDescription": "Our optimization efforts focused on enhancing the app's speed, responsiveness, and overall performance. We optimized the code, streamlined the user interface, and implemented best practices for mobile and web performance. This ensured that the platform delivered a fast, smooth, and enjoyable experience for all users."
+      }
     ]
-  },
+  }
+,
   {
     "id": 4,
     "image": "/images/project/project-4.png",
-    "projectLink": "",
+    "projectLink": "https://www.alcanes.com",
     "title": "Alcanes",
     "category": ["Website", "SEO"],
-    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "excerpt": "Discover how we enhanced the online presence and performance of Alcanes, a premier outdoor furniture retailer, through strategic development, SEO, and speed optimization.",
     "body": [
-      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+      "The Alcanes project demonstrates our ability to create and optimize online platforms for the outdoor furniture industry. Our team developed a responsive and user-friendly website that showcases the beauty and durability of Alcanes' outdoor furniture collections. We integrated features that facilitate easy navigation and a seamless shopping experience.",
+      "In the competitive e-commerce landscape, performance and visibility are crucial. For Alcanes, we employed advanced development techniques to build a robust and secure website. Our SEO strategies were designed to enhance search engine rankings, driving organic traffic to the site. Additionally, our speed optimization efforts ensured fast load times, providing users with a smooth and efficient browsing experience."
+    ],
+    "deliveryDescription": "The Alcanes project involved comprehensive development, strategic SEO, and meticulous speed optimization for an outdoor furniture e-commerce platform. Our goal was to create a high-performing, visually appealing website that enhances user experience and improves search engine visibility.",
+    "deliveryAccordion": [
+      {
+        "accordionHeader": "Development",
+        "accordionDescription": "Our development team created a robust and scalable e-commerce platform tailored to showcase Alcanes' outdoor furniture. Key features included high-quality product images, detailed descriptions, and an intuitive navigation system. We utilized the latest technologies to ensure the site was fast, responsive, and secure."
+      },
+      {
+        "accordionHeader": "SEO",
+        "accordionDescription": "Our SEO strategy aimed to increase organic traffic and improve search engine rankings. We conducted extensive keyword research, optimized on-page elements such as titles, meta descriptions, and alt tags, and created high-quality content tailored to outdoor furniture enthusiasts. Additionally, we built a network of backlinks to enhance domain authority and visibility."
+      },
+      {
+        "accordionHeader": "Speed Optimization",
+        "accordionDescription": "Our optimization efforts focused on enhancing the website's load times and overall performance. We optimized images, minimized code, and leveraged browser caching to ensure fast and efficient page loads. This provided users with a smooth browsing experience, reducing bounce rates and improving user engagement."
+      }
     ]
   },
   {
     "id": 5,
     "image": "/images/project/project-5.png",
-    "projectLink": "",
-    "title": "Movingmountains ",
+    "projectLink": "https://www.movingmountains.com",
+    "title": "Movingmountains",
     "category": ["Design", "Website"],
-    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "excerpt": "Explore how we transformed the real estate showcase experience for Movingmountains through innovative design, development, and compelling content writing.",
     "body": [
-      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+      "The Movingmountains project showcases our expertise in creating visually stunning and highly functional websites for the real estate industry. Our design team crafted a visually appealing and intuitive interface that highlights the unique features of various properties, making it easy for potential buyers to explore and engage with the listings.",
+      "In the competitive real estate market, a strong online presence is essential. For Movingmountains, we focused on creating a website that not only looks great but also performs exceptionally well. Our development team implemented advanced features such as interactive property maps, virtual tours, and high-resolution image galleries. Additionally, our content writing team produced engaging and informative descriptions that capture the essence of each property."
+    ],
+    "deliveryDescription": "The Movingmountains project involved comprehensive design, development, and content writing for a real estate showcase platform. Our goal was to create a visually appealing, highly functional, and informative website that enhances user experience and effectively showcases the properties.",
+    "deliveryAccordion": [
+      {
+        "accordionHeader": "Design",
+        "accordionDescription": "Our design team focused on creating a clean and modern interface that highlights the beauty and uniqueness of each property. We incorporated high-quality visuals, intuitive navigation, and interactive elements to provide users with an engaging browsing experience."
+      },
+      {
+        "accordionHeader": "Development",
+        "accordionDescription": "The development phase involved building a robust and scalable platform that supports advanced features such as interactive property maps, virtual tours, and high-resolution image galleries. We utilized the latest technologies to ensure the site is fast, responsive, and secure, providing a seamless experience for users."
+      },
+      {
+        "accordionHeader": "Content Writing",
+        "accordionDescription": "Our content writing team created detailed and captivating descriptions for each property, highlighting key features and benefits. The content was tailored to attract potential buyers and provide them with all the information they need to make an informed decision. Additionally, we optimized the content for search engines to improve the site's visibility and attract more organic traffic."
+      }
     ]
-  },
+  }
+,
   {
     "id": 6,
     "image": "/images/project/project-6.png",
