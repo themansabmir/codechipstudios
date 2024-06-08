@@ -18,13 +18,22 @@ const FormTwo = () => {
 
     const sendEmail = (e) => {
         e.preventDefault();
-    
-        emailjs.sendForm('service_yj5dgzp', 'template_hfduayo', form.current, 'WLENsTkBytC0yvItS')
-          .then((result) => {
+
+        emailjs
+          .sendForm(
+            "service_1at5acu",
+            "template_7asf2l7",
+            form.current,
+            "kQ0Ia0iPVdaybekRq"
+          )
+          .then(
+            (result) => {
               console.log(result.text);
-          }, (error) => {
+            },
+            (error) => {
               console.log(error.text);
-          });
+            }
+          );
           form.current.reset();
           showresult(true);
       };
@@ -51,7 +60,7 @@ const FormTwo = () => {
         <div className="form-group mb--40">
             <label>How can we help you?</label>
             <textarea className="form-control" name="contact-message" rows="4"></textarea>
-            
+
         </div>
         <div className="form-group">
             <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Get Pricing Now</button>
